@@ -11,8 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  english_words: ^4.0.0
+  qr_code_scanner: ^1.0.1
   provider: ^6.0.0
 
 dev_dependencies:
