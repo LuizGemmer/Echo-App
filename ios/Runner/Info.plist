@@ -28,6 +28,10 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Permissão para usar microfone</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Permissão para usar microfone</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
