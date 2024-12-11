@@ -9,4 +9,3 @@ class MyAppBar extends StatelessWidget {
     );
   }
 }
-
